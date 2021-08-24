@@ -5,3 +5,6 @@ In this repository I will update the implementations of various basic GAN papers
 1. Generative Adversarial Networks by Goodfellow et. al 
      * [paper link](https://arxiv.org/abs/1406.2661)   
      * [implementation](https://github.com/ReboreExplore/GAN-Papers-Implementation/blob/main/GAN_implementation.ipynb)
+2. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+     * [paper link](https://arxiv.org/pdf/1511.06434.pdf)
+     * [implementation](https://github.com/ReboreExplore/GAN-Papers-Implementation/blob/main/DCGAN_implementation.ipynb)
